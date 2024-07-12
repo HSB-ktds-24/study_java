@@ -25,6 +25,8 @@ public class TypeCasingExam {
 		
 		double divResult2 = (score1*1.0)/score2;
 		System.out.println(divResult2);
+		
+		// 대충 주석이다
 	}
 
 }
